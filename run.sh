@@ -1,0 +1,1 @@
+python Run.py BJMetro_in15 FED --device cuda:0 --num_clients 15 --active_mode adptpolu --act_k 4 --local_epochs 1 &
